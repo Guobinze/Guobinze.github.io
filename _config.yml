@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: 我的博客 | BY Blog
+title: GBZ Blog
+SEOTitle: 我的博客 | GBZ Blog
 header-img: img/post-bg-desk.jpg
 email: 1410131029@qq.com
 description: "Every failure is leading towards success."
@@ -98,13 +98,14 @@ service-worker: true
 
 # Friends
 friends: [
+#    {
+#        title: "WY",
+#        href: "http://zhengwuyang.com"
+#    },{
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{

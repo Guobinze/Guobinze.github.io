@@ -55,13 +55,13 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+title: GBZ Blog                    # 你的博客网站标题
+SEOTitle: 柏荧的博客 | GBZ Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: Guobinze     # 你的github账号
+#jianshu_username: e71990ada2fd  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -153,8 +153,8 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        title: "GBZ Blog",
+        href: "https://guobinze.github.io/"
     },
     {
         title: "Apple",

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      JavaScript零碎（持续更新）
-subtitle:   JavaScript零碎
+title:      谈谈JavaScript中的闭包
+subtitle:   谈谈JavaScript中的闭包
 date:       2018-11-23
 author:     GBZ
 header-img: img/post-bg-debug.png

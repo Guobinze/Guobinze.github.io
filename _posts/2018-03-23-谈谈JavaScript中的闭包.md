@@ -2,7 +2,7 @@
 layout:     post
 title:      谈谈JavaScript中的闭包
 subtitle:   谈谈JavaScript中的闭包
-date:       2018-11-23
+date:       2018-03-23
 author:     GBZ
 header-img: img/post-bg-debug.png
 catalog: true

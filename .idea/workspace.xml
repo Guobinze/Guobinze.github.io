@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a92a4137-fe28-46b6-ad62-b14f491414b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-07-21-浅谈移动端适配.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-08-08-搞搞深拷贝和浅拷贝.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-18-老生常谈跨域问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-10-02-浅谈网络安全.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-19-说说CDN和DNS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-22-初窥浏览器渲染.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-04-关于JSBridge的一些思考.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-28-前端打点上报初体验.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-10-小试Webpack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-05-学习数据结构的一些总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-26-用户弱网环境怎么搞定.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-25-HTTP缓存机制.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-05-Http(s).md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-05-重温HTTP(S).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-Git指令整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-15-Git指令整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-16-Git-代码回滚.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-16-Git-代码回滚.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,12 +52,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-26-用户弱网环境怎么搞定.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="45">
                 <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-25-HTTP缓存机制.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-Git指令整理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-2898">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,6 +136,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-05-学习数据结构的一些总结.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-26-用户弱网，怎么搞定？.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-26-用户弱网环境怎么搞定.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-25-HTTP缓存机制.md" />
       </list>
     </option>
   </component>
@@ -202,15 +214,15 @@
       <option name="presentableId" value="Default" />
       <updated>1567345099738</updated>
       <workItem from="1567345101182" duration="3004000" />
-      <workItem from="1587217105431" duration="2720000" />
+      <workItem from="1587217105431" duration="3410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5724000" />
+    <option name="totallyTimeSpent" value="6414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27131784" />
@@ -228,7 +240,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -421,26 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-Git-代码回滚.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-Git指令整理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-04-关于JSBridge的一些思考.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -491,16 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-学习数据结构的一些总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-18-老生常谈跨域问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -521,11 +503,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-学习数据结构的一些总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-Git指令整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2898">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-Git-代码回滚.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-26-用户弱网环境怎么搞定.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-25-HTTP缓存机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>

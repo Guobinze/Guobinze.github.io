@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a92a4137-fe28-46b6-ad62-b14f491414b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-02-浅谈网络安全.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-02-浅谈网络安全.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-01-this,call,apply和bind.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-01-this,call,apply和bind.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="807" />
-  </component>
+  <component name="ProjectId" id="1an6hnw1H7bB88lNaZaKxiDX4nW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -85,6 +82,8 @@
       <workItem from="1567345101182" duration="3004000" />
       <workItem from="1587217105431" duration="7088000" />
       <workItem from="1587279830059" duration="3253000" />
+      <workItem from="1587359133500" duration="758000" />
+      <workItem from="1587363526063" duration="2530000" />
     </task>
     <servers />
   </component>
@@ -96,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

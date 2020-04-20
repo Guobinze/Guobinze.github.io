@@ -164,6 +164,9 @@ function myFunction(arg1, arg2) {
 var a = new myFunction("Li","Cherry");
 a.lastName;                             // 返回 "Cherry"
 ```
+构造函数更详细的内容会在下篇进行说明，[原型链和继承](https://guobinze.top/2018/02/16/%E5%8E%9F%E5%9E%8B%E9%93%BE%E5%92%8C%E7%BB%A7%E6%89%BF/)
+
+That's all
 
 
 

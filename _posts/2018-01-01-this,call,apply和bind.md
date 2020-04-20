@@ -153,7 +153,6 @@ bind 是创建一个新的函数，我们必须要手动去调用
     a.func2()            // Cherry
 ```
 ### 2.4 使用构造函数
-
 ```
 // 构造函数:
 function myFunction(arg1, arg2) {

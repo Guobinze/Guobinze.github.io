@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a92a4137-fe28-46b6-ad62-b14f491414b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-04-关于JSBridge的一些思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-04-关于JSBridge的一些思考.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
       <workItem from="1587379984159" duration="66000" />
       <workItem from="1587456711247" duration="492000" />
       <workItem from="1587458202345" duration="6000" />
+      <workItem from="1587459876662" duration="340000" />
     </task>
     <servers />
   </component>
